@@ -1,0 +1,23 @@
+{
+    "name": "pythagor/phpA-B",
+    "description": "A/B testing library",
+    "keywords": [
+        "A/B testing",
+        "phpab"
+    ],
+    "type": "library",
+    "license": "GPL-2.0",
+    "support": {
+        "issues": "https://github.com/pythagor/phpA-B/issues",
+        "source": "https://github.com/pythagor/phpA-B"
+    },
+    "authors": [
+        {
+            "name": "Brian Cray"
+        },
+        {
+            "name": "Andrei Chugunov",
+            "email": "admin@pythagor.com"
+        }
+    ]
+}
