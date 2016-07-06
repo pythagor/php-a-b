@@ -2,7 +2,7 @@
     "name": "pythagor/php-a-b",
     "description": "A/B testing library",
     "keywords": [
-        "A/B testing",
+        "A-B testing",
         "phpab"
     ],
     "type": "library",
