@@ -1,5 +1,5 @@
 {
-    "name": "pythagor/phpA-B",
+    "name": "pythagor/php-a-b",
     "description": "A/B testing library",
     "keywords": [
         "A/B testing",
@@ -8,8 +8,8 @@
     "type": "library",
     "license": "GPL-2.0",
     "support": {
-        "issues": "https://github.com/pythagor/phpA-B/issues",
-        "source": "https://github.com/pythagor/phpA-B"
+        "issues": "https://github.com/pythagor/php-a-b/issues",
+        "source": "https://github.com/pythagor/php-a-b"
     },
     "authors": [
         {
