@@ -13,11 +13,16 @@
     },
     "authors": [
         {
-            "name": "Brian Cray"
+            "name": "Brian Cray",
+            "homepage": "http://briancray.com/"
         },
         {
             "name": "Andrei Chugunov",
-            "email": "admin@pythagor.com"
+            "email": "admin@pythagor.com",
+            "homepage": "http://pythagor.com"
         }
-    ]
+    ],
+    "autoload": {
+        "files": ["phpab.php"]
+    }
 }
