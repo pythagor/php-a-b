@@ -22,6 +22,9 @@
             "homepage": "http://pythagor.com"
         }
     ],
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
         "files": ["phpab.php"]
     }
